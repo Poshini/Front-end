@@ -1,2 +1,3 @@
-# coursera-test1
-frontend course
+# coursera-test1 // file name
+
+frontend course by Coursera Platform
