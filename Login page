@@ -4,7 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">  
 <title> Login Page </title>  
 <style>   
-Body {  
+Body 
+{  
   font-family: Calibri, Helvetica, sans-serif;  
   background-color: blue;  
 }  
