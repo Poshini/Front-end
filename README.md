@@ -1,6 +1,4 @@
-# coursera-test1  
-  
-frontend course  provided by Coursera Platform 
+# Some front-end codes
     
    
    
