@@ -10,7 +10,7 @@
         <span class="button_text">Sign In</span>
       </button>
     </div>
-    
+     
     <div id="sign_in_options" class="field_container">
         <div id="sign_in_alternatives_container">
           <span id="google_sign_in_option">or you can <a href="#" id="google_sign_in" class="login_link">sign in with Google</a></span>
